@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lokesh sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [summer_project] (git@github.com:lokesh658/summer_project.git)
+- 🔭 I’m currently working on **git@github.com:lokesh658/summer_project.git**
 
-- 👨‍💻 All of my projects are available at [my portfolio](my portfolio)
+- 👨‍💻 All of my projects are available at (**my portfolio**)
 
 - 📫 How to reach me **lokesh15082002@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences (**resume link**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
